@@ -5860,7 +5860,16 @@ Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business
 Microsoft Purview Suite for Microsoft 365 Business Premium,PURVIEW_SUITE_FOR_BUSINESS_PREMIUM_NEW,4b60d63d-b535-4209-b2ed-91e5b0d355ea,,,
 Microsoft Entra Private Access,Microsoft_Entra_Private_Access_Premium,555af716-7534-4f72-a79c-d5a421dd3c5c,,,
 Microsoft 365 Business Premium and Microsoft 365 Copilot Business,BUSINESS_PREMIUM_AND_MICROSOFT_365_COPILOT_FOR_BUSINESS,a6d18b68-a67e-4cbd-ba00-8744bc468faa,,,
-Microsoft 365 Copilot Business,,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Copilot Studio in Copilot for M365 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Graph Connectors in Microsoft 365 Copilot 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Intelligent Search 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft 365 Copilot for SharePoint 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft 365 Copilot in Microsoft Teams Microsoft 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,365 Copilot in Productivity Apps 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Copilot with Graph-grounded chat 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Vlva Insights 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Vlva Insights Backend 
+Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Power Platform Connectors in Microsoft 365 Copilot
 Microsoft Intune Remote Help,,a2367322-2be4-443f-837c-06798507b89d,,,
 Microsoft 365 Copilot Education,,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,
 Microsoft Intune Endpoint Privilege Management,,083b8b8c-f566-4aa1-a7ea-3c8abaf5ce0e,,,
