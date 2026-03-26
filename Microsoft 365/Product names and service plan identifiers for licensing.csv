@@ -5855,11 +5855,6 @@ Windows Store for Business,WINDOWS_STORE,6470687e-a428-4b7a-bef2-8a291ad947c9,WI
 Windows Store for Business EDU Faculty,WSFB_EDU_FACULTY,c7e9d9e6-1981-4bf3-bb50-a5bdfaa06fb2,Windows Store for Business EDU Store_faculty,aaa2cd24-5519-450f-a1a0-160750710ca1,Windows Store for Business EDU Store_faculty
 Workload Identities Premium,Workload_Identities_Premium_CN,73fa80b5-689f-4db9-bbe4-bd414bc41e44,AAD_WRKLDID_P2,7dc0e92d-bf15-401d-907e-0884efe7c760,Azure Active Directory workload identities P2
 Workload Identities Premium,Workload_Identities_Premium_CN,73fa80b5-689f-4db9-bbe4-bd414bc41e44,AAD_WRKLDID_P1,84c289f0-efcb-486f-8581-07f44fc9efad,Azure Active Directory workload identities P1
-Microsoft 365 E5 eDiscovery and Audit,,b49494c3-64d5-42da-9e32-ca44cb37f259,,,
-Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business,,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,
-Microsoft Purview Suite for Microsoft 365 Business Premium,PURVIEW_SUITE_FOR_BUSINESS_PREMIUM_NEW,4b60d63d-b535-4209-b2ed-91e5b0d355ea,,,
-Microsoft Entra Private Access,Microsoft_Entra_Private_Access_Premium,555af716-7534-4f72-a79c-d5a421dd3c5c,,,
-Microsoft 365 Business Premium and Microsoft 365 Copilot Business,BUSINESS_PREMIUM_AND_MICROSOFT_365_COPILOT_FOR_BUSINESS,a6d18b68-a67e-4cbd-ba00-8744bc468faa,,,
 Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Copilot Studio in Copilot for M365 
 Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Graph Connectors in Microsoft 365 Copilot 
 Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Intelligent Search 
@@ -5870,8 +5865,97 @@ Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69
 Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Vlva Insights 
 Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Vlva Insights Backend 
 Microsoft 365 Copilot,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Power Platform Connectors in Microsoft 365 Copilot
-Microsoft Intune Remote Help,,a2367322-2be4-443f-837c-06798507b89d,,,
-Microsoft 365 Copilot Education,,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,
-Microsoft Intune Endpoint Privilege Management,,083b8b8c-f566-4aa1-a7ea-3c8abaf5ce0e,,,
-?,,514107ec-03e5-46d5-83f2-0f79f501b1c7,,,
-?,,5b6d511f-239b-40a1-9a5a-c54ec898b83a,,,
+Microsoft 365 E5 eDiscovery and Audit,M365_DISC0VER_RESPOND,b49494c3-64d5-42da-9e32-ca44cb37f259,,,Microsoft 365 Advanced Auditing 
+Microsoft 365 E5 eDiscovery and Audit,M365_DISC0VER_RESPOND,b49494c3-64d5-42da-9e32-ca44cb37f259,,,Office 365 Advanced eDiscovery 
+Microsoft 365 E5 eDiscovery and Audit,M365_DISC0VER_RESPOND,b49494c3-64d5-42da-9e32-ca44cb37f259,,,Purview Discovery 
+Microsoft 365 E5 eDiscovery and Audit,M365_DISC0VER_RESPOND,b49494c3-64d5-42da-9e32-ca44cb37f259,,,Retired - Microsoft Date Investigations
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Azure Active Directory 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Azure Active Directory Premium Plan 1 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Azure Information Protection Plan 1 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Azure Multi-Factor Authentication 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Azure Rights Management 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Common Data Service 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Common Data Service for Teams 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Copilot Studio in Copilotfor M365 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Data loss Prevention 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Exchange Foundation
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Exchange Online (Plan 1) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Exchange Online Archiving 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Flow for Office 365 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Graph Connectors Search with Index 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Graph Connectors in Microsoft 365 Copilot 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Insights by MyAnalytics 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Insights by MyAnalytics Backend 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Intelligent Search 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Intune A Direct 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft 365 Apps for Business 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft 365 Copilot for SharePoint 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft 365 Copilot in Microsoft Teams 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft 365 Copilot in Productivity Apps 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft 365 Lighthouse (Plan 1)
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft 365 Lighthouse (Plan 2) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Bookings 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Clipchamp
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Clipchamp 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Copilot with Graph-grounded chat 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Defender for Business 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Defender for Cloud Apps Discovery 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Defender for Office 365 (Plan 1)
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Forms (Plan El) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Intune 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Kaizala Pro 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Loop 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Planner 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Search 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft StaffHub 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Viva Insights 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Microsoft Viva Insights Backend 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Nucleus 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Office Online 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Office Shared Computer Activation 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,People Skills - Foundation 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Power Platform Connectors in Microsoft 365 Copilot 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Power Virtual Agents for Office 365 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,PowerApps for Office 365 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Project for Office (Plan E5) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Purview Discovery 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Commercial data protection for Microsoft Copilot
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Places core 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,SharePoint Online (Plan 1) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Skype for Business Online (Plan 2) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Stream for Office 365
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Sway 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,To-Do (Plan 1) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Universal Print 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Viva Engage Core 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Viva Learning Seeded 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Whiteboard (Plan 1) 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Windows Business 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Windows Update for Business Deployment Service 
+Microsoft 365 Business Premium EEA (No Teams) and Microsoft 365 Copilot Business, BUSINESS_PREMIUM_EEA_NO_TEAMS_AND_COPILOT_FOR_BUSINESS,447a2f2c-7fc7-4164-9e62-4c25d7d86bd9,,,Yammer Enterprise
+Microsoft Intune Endpoint Privilege Management,Microsoft_Intune_Endpoint_Privilege_Management,083b8b8c-f566-4aa1-a7ea-3c8abaf5ce0e,,,Intune Endpoint Privilage Management
+Microsoft Intune Remote Help,Remote_Help_AddOn,a2367322-2be4-443f-837c-06798507b89d,,,Remote Help
+Microsoft Intune Remote Help,Remote_Help_AddOn,a2367322-2be4-443f-837c-06798507b89d,,,Intune ServiceNow Intergration
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Copilot Studio in Copilot for M365 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Graph Connectors in Microsoft 365 Copilot 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Intelligent Search 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft 365 Copilot for SharePoint 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft 365 Copilot in Microsoft Teams 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft 365 Copilot in Productivity Apps 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Copilot with Graph-grounded chat 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Vlva Insights 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Microsoft Vlva Insights Backend 
+Microsoft 365 Copilot Business,MICROSOFT_365_COPILOT_FOR_BUSINESS,a69133fb-7e57-40ce-9a69-6c8551bb7854,,,Power Platform Connectors in Microsoft 365 Copilot
+Microsoft Entra Suite,Microsoft_Entra_Suite,f9602137-2203-447b-9fff-41b36e08ce5d,,,Unknown_Microsoft Entra Suite
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Copilot Studio in Copilotfor M365 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Graph Connectors in Microsoft 365 Copilot 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Intelligent Search 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Microsoft 365 Copilot far SharePoint 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Microsoft 365 Copilot in Microsoft Teams 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Microsoft 365 Copilot in Productivity Apps 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Microsoft Copilot with Graph-grounded chat 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Microsoft Viva Insights 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Microsoft Viva Insights Backend 
+Microsoft 365 Copilot Education,MICROSOFT_365_COPILOT_EDUCATION,e39db8b2-4a67-40a6-b7ef-499282a2699d,,,Power Platform Connectors in Microsoft 365 Copilot
+Microsoft Cloud for Non-Profit AddOn Basic,Microsoft_Cloud_for_Nonprofit_AddOn_Basic,514107ec-03e5-46d5-83f2-0f79f501b1c7,,,Unknown_Microsoft Cloud for Non-Profit AddOn Basic
+Power Automate Hosted Process,POWER_AUTOMATE_HOSTED_PROCESS,5b6d511f-239b-40a1-9a5a-c54ec898b83a,,,Unknown_Power Automate Hosted Process
