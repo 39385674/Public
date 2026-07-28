@@ -6083,7 +6083,9 @@ Microsoft Defender and Purview Suites for Microsoft 365 Business Premium,DEFENDE
 Microsoft Defender and Purview Suites for Microsoft 365 Business Premium,DEFENDER_AND_PURVIEW_SUITES_FOR_BUSINESS_PREMIUM_NEW,3c9fe495-e4c9-4e70-9669-6d0a4347aa38,CustomerLockboxA_Enterprise,3ec18638-bd4c-4d3b-8905-479ed636b83e,Customer Lockbox (A)
 Microsoft Defender and Purview Suites for Microsoft 365 Business Premium,DEFENDER_AND_PURVIEW_SUITES_FOR_BUSINESS_PREMIUM_NEW,3c9fe495-e4c9-4e70-9669-6d0a4347aa38,LOCKBOX_ENTERPRISE,9f431833-0334-42de-a7dc-70aa40db46db,Customer Lockbox
 Microsoft Defender and Purview Suites for Microsoft 365 Business Premium,DEFENDER_AND_PURVIEW_SUITES_FOR_BUSINESS_PREMIUM_NEW,3c9fe495-e4c9-4e70-9669-6d0a4347aa38,RMS_S_PREMIUM2,5689bec4-755d-4753-8b61-40975025187c,AZURE INFORMATION PROTECTION PREMIUM P2
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+Microsoft Teams Premium,M365_TEAMS_PREMIUM,6432c818-bcef-43b6-9290-aec052964950,TEAMSPRO_MGMT,0504111f-feb8-4a3c-992a-70280f9a2869,Microsoft Teams Premium Intelligent
+Microsoft Teams Premium,M365_TEAMS_PREMIUM,6432c818-bcef-43b6-9290-aec052964950,TEAMSPRO_CUST,cc8c0802-a325-43df-8cba-995d0c6cb373,Microsoft Teams Premium Personalized
+Microsoft Teams Premium,M365_TEAMS_PREMIUM,6432c818-bcef-43b6-9290-aec052964950,TEAMSPRO_PROTECTION,f8b44f54-18bb-46a3-9658-44ab58712968,Microsoft Teams Premium Secure
+Microsoft Teams Premium,M365_TEAMS_PREMIUM,6432c818-bcef-43b6-9290-aec052964950,TEAMSPRO_VIRTUALAPPT,9104f592-f2a7-4f77-904c-ca5a5715883f,Microsoft Teams Premium Virtual Appointment
+Microsoft Teams Premium,M365_TEAMS_PREMIUM,6432c818-bcef-43b6-9290-aec052964950,MCO_VIRTUAL_APPT,711413d0-b36e-4cd4-93db-0a50a4ab7ea3,Microsoft Teams Premium Virtual Appointments
+Microsoft Teams Premium,M365_TEAMS_PREMIUM,6432c818-bcef-43b6-9290-aec052964950,QUEUES_APP,ab2d4fb5-f80a-4bf1-a11d-7f1da254041b,Queues app for Microsoft Teams
